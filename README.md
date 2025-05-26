@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>The Tribute Website | A.P.J Abdul Kalam</title>
+    <title>The Tribute Website | SwamiVivekananda</title>
     <link rel="stylesheet" href="Tribute.css"/>
 </head>
 <body>
